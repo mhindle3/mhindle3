@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhindle3
 - 👀 I’m interested in developmental psychology
 - 🌱 I’m currently learning how to use GitHub!
-- 💞️ I’m looking to collaborate on classwork in PSCYH 390
+- 💞️ I’m looking to collaborate on classwork in PSYCH 390
 - 📫 How to reach me: mhindle@uwaterloo.ca
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a cat named Sprinkles
